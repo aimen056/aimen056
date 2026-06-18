@@ -4,14 +4,13 @@
 
 # hi, i'm aimen 👋
 
-i build apps, break things, and i'm working my way into appsec.
-
 I've tried a lot of things. competitive programming, hackathons, ICPC, data science, ML, full-stack, wordpress, shopify. none of it felt completely wrong, just not quite right either.
-then i started testing apps before they went to production and something clicked. i got way more curious about how things break than how they're built. that curiosity led me to appsec and now it's the first thing that actually feels like mine.
 
-i genuinely think most teams treat security as an afterthought and i want to be the person who changes that from the inside.
+Then during testing i caught some critical auth and authorization issues right before a production release. the adrenaline from finding that was real. more real than anything else i'd done before.
 
-> *jack of all trades. currently learning to break what i build.*
+That moment is why i'm going deep on appsec now. turns out i'm way more interested in how things break than how they're built. and having built a lot of things first, i think that actually makes me better at it.
+
+> *currently: google cybersecurity cert + TryHackMe appsec path*
 
 </div>
 
@@ -52,7 +51,7 @@ i genuinely think most teams treat security as an afterthought and i want to be 
 | **ORA PMS** | property management system for landlords and tenants | MERN |
 | **Verify AI** | checks if news is real or not | Python, NLP, Web |
 | **WordPress sites** | bunch of client sites, all live | WordPress, PHP |
-| **LMS** *(contributor)* | learning management system | Web |
+| **LMS** *(contributor)* | learning management system. caught critical auth/authorization bugs before production | Web |
 | **HRM** *(contributor)* | HR management system | Web |
 
 ---
