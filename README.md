@@ -6,7 +6,8 @@
 
 i build apps, break things, and i'm working my way into appsec.
 
-started with full-stack and client work, now i'm learning how to make sure what i build doesn't get torn apart by someone else. turns out security is a whole world and i'm kind of obsessed with it.
+I've tried a lot of things. competitive programming, hackathons, ICPC, data science, ML, full-stack, wordpress, shopify. none of it felt completely wrong, just not quite right either.
+then i started testing apps before they went to production and something clicked. i got way more curious about how things break than how they're built. that curiosity led me to appsec and now it's the first thing that actually feels like mine.
 
 i genuinely think most teams treat security as an afterthought and i want to be the person who changes that from the inside.
 
