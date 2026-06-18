@@ -60,9 +60,9 @@ i genuinely think most teams treat security as an afterthought and i want to be 
 
 <div align="center">
 
-![Aimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimen056&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Aimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimen056&show_icons=true&theme=transparent&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aimen056&theme=transparent)](https://git.io/streak-stats)
 
