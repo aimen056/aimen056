@@ -64,8 +64,7 @@ i genuinely think most teams treat security as an afterthought and i want to be 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aimen056)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=aimen056&theme=transparent)](https://git.io/streak-stats)
 </div>
 
 ---
