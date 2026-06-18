@@ -1,21 +1,22 @@
 <div align="center">
 
-<!-- Open to work banner -->
-![Open to Work](https://img.shields.io/badge/🔒_Open_to_Work-AppSec_%7C_Web_Dev-2ea44f?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/open_to_work-appsec_%7C_web_dev-2ea44f?style=for-the-badge)
 
-# Hey, I'm Aimen 👋
+# hi, i'm aimen 👋
 
-**Builder by day. Security advocate always.**
+i build apps, break things, and i'm working my way into appsec.
 
-I build full-stack apps and Shopify/WordPress solutions — and I'm pivoting into **Application Security**, because security shouldn't be an afterthought. It should be the foundation.
+started with full-stack and client work, now i'm learning how to make sure what i build doesn't get torn apart by someone else. turns out security is a whole world and i'm kind of obsessed with it.
 
-> *"Jack of all trades — and now learning to break what I build."*
+i genuinely think most teams treat security as an afterthought and i want to be the person who changes that from the inside.
+
+> *jack of all trades. currently learning to break what i build.*
 
 </div>
 
 ---
 
-### 🛠 Stack & Skills
+### 🛠 stack
 
 <!-- Languages -->
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -32,7 +33,7 @@ I build full-stack apps and Shopify/WordPress solutions — and I'm pivoting int
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<!-- CMS / E-comm -->
+<!-- CMS -->
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
@@ -42,20 +43,20 @@ I build full-stack apps and Shopify/WordPress solutions — and I'm pivoting int
 
 ---
 
-### 🚀 Projects
+### 🚀 things i've built
 
-| Project | What it does | Tech |
+| project | what it does | tech |
 |---|---|---|
-| **AirGuard** | IoT-based air pollution monitoring system — real-time sensor data dashboard | IoT, Python, Web |
-| **ORA PMS** | Property management system for landlords & tenants | MERN Stack |
-| **Verify AI** | Detects and flags fake/misleading news using AI | Python, NLP, Web |
-| **WordPress Client Sites** | Multiple production sites built & delivered for clients | WordPress, PHP |
-| **LMS** *(contributor)* | Learning management system | Web Stack |
-| **HRM** *(contributor)* | Human resource management system | Web Stack |
+| **AirGuard** | IoT air pollution monitor, tracks real-time sensor data | IoT, Python, Web |
+| **ORA PMS** | property management system for landlords and tenants | MERN |
+| **Verify AI** | checks if news is real or not | Python, NLP, Web |
+| **WordPress sites** | bunch of client sites, all live | WordPress, PHP |
+| **LMS** *(contributor)* | learning management system | Web |
+| **HRM** *(contributor)* | HR management system | Web |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 github stats
 
 <div align="center">
 
@@ -63,25 +64,23 @@ I build full-stack apps and Shopify/WordPress solutions — and I'm pivoting int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aimen056&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aimen056&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### 🔐 Currently Learning
+### 🔐 currently learning
 
-| Course | Platform | Focus |
+| course | where | what i'm picking up |
 |---|---|---|
-| Google Cybersecurity Certificate | Coursera | Foundations, SIEM, threat detection |
-| Jr Penetration Tester Path | TryHackMe | Web vulns, recon, exploitation |
-| AppSec fundamentals | OWASP / self-study | Secure SDLC, threat modeling, code review |
-
-> Working toward making security a **first-class citizen** in every team I join.
+| Google Cybersecurity Certificate | Coursera | SIEM, threat detection, the basics |
+| Jr Penetration Tester Path | TryHackMe | web vulns, recon, exploitation |
+| AppSec | OWASP + self-study | secure SDLC, threat modeling, code review |
 
 ---
 
-### 📫 Let's Connect
+### 📫 find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umme_Aimen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umme-aimen-905a96288/)
 
@@ -91,7 +90,7 @@ I build full-stack apps and Shopify/WordPress solutions — and I'm pivoting int
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aimen056&color=blueviolet&style=flat-square)
 
-<!-- Snake animation — enable via GitHub Actions (instructions below) -->
+<!-- snake — uncomment after setting up GitHub Action -->
 <!-- ![Snake](https://github.com/aimen056/aimen056/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
