@@ -60,11 +60,11 @@ That moment is why i'm going deep on appsec now. turns out i'm way more interest
 
 <div align="center">
 
-![Aimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimen056&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+![Aimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimen056&show_icons=true&theme=transparent&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aimen056&layout=compact&theme=transparent&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aimen056&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aimen056&theme=transparent)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,18 +90,7 @@ That moment is why i'm going deep on appsec now. turns out i'm way more interest
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aimen056&color=blueviolet&style=flat-square)
 
-<!-- Snake Animation mit Hell/Dunkel-Modus Unterstützung -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimen056/aimen056/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimen056/aimen056/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimen056/aimen056/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aimen056&color=blueviolet&style=flat-square)
-
-<!-- snake — uncomment after setting up GitHub Action -->
-<!-- ![Snake](https://github.com/aimen056/aimen056/blob/output/github-contribution-grid-snake.svg) -->
+<!-- Contribution Snake Animation -->
+![Snake](https://raw.githubusercontent.com/aimen056/aimen056/output/github-contribution-grid-snake.svg)
 
 </div>
